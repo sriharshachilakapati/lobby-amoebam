@@ -1,0 +1,12 @@
+#workspace {
+  text-align: center;
+  background: linear-gradient(#890002, #4a0002);
+}
+#workspace .valign-wrapper{
+  height: 100%;
+}
+canvas {
+  margin:auto;
+  width: 80%;
+  height: 80%;
+}
