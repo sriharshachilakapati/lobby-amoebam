@@ -3,8 +3,9 @@
   "short_description" : "A game about adventures of an Amoeba",
   "category" : "games",
   "sub_category" : "arcade",
-  "version" : "0.1.1",
+  "version" : "0.1.2",
   "author" : "Sri Harsha Chilakapati",
   "author_page" : "http://goharsha.com/",
-  "app_page" : "http://goharsha.com/Amoebam/"
+  "app_page" : "http://goharsha.com/Amoebam/",
+  "logo" : true
 }
